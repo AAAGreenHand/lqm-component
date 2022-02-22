@@ -1,6 +1,6 @@
 {
   "name": "lqm-form-item",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "private": false,
   "main": "dist/cjs/index.js",
@@ -11,5 +11,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "139e41271436ade4d2d2a2b4ccf97dfa49e0193a"
 }

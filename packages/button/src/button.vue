@@ -2,6 +2,7 @@
   <div>
     <button @click="handleClick">
       <slot />
+      <div>Yeah</div>
     </button>
   </div>
 </template>
