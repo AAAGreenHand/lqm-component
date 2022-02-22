@@ -1,9 +1,9 @@
 {
-  "name": "custom-component",
+  "name": "lqm-component",
   "version": "1.0.0",
   "description": "",
   "author": "",
-  "private": false,
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
